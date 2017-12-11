@@ -1,0 +1,5 @@
+ suggested reference books
+http://greenteapress.com/wp/think-python-2e/
+http://docs.python-guide.org/en/latest/intro/learning/
+https://python.swaroopch.com/
+http://interactivepython.org/runestone/static/pythonds/index.html
